@@ -13,5 +13,7 @@
     "axios": "^0.26.1",
     "global": "^4.4.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@cosmjs/cli": "^0.28.0"
+  }
 }
